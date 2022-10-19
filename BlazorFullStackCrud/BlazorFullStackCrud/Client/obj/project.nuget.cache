@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dlIJ4pEEQpZhPfk6Ho+o2+NIjgRk4NrqNg9hPEM+mmfW132Xzovardtia9zclM/HnQq5hzWa41NSrIAcNAVnhQ==",
+  "dgSpecHash": "gPg7JRRzMoBsoom2vpoQNz5N7CbwZXYAKNAV3G7qtBvz4WBOI7EBXpWMdJt5EGr5GkzLnpJzpDgd1T/s9YHPyw==",
   "success": true,
   "projectFilePath": "D:\\Personal\\ProyectosNetcore\\ProyectoFulstackBlazor\\BlazorFullStackCrud\\BlazorFullStackCrud\\Client\\BlazorFullStackCrud.Client.csproj",
   "expectedPackageFiles": [
@@ -32,8 +32,7 @@
     "C:\\Users\\juanf\\.nuget\\packages\\system.io.pipelines\\6.0.3\\system.io.pipelines.6.0.3.nupkg.sha512",
     "C:\\Users\\juanf\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "C:\\Users\\juanf\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
-    "C:\\Users\\juanf\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512",
-    "C:\\Users\\juanf\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.5\\microsoft.netcore.app.runtime.mono.browser-wasm.6.0.5.nupkg.sha512"
+    "C:\\Users\\juanf\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
